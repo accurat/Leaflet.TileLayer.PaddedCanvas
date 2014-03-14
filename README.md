@@ -1,5 +1,5 @@
 #Leaflet TileLayer Padded Canvas
------
+
 
 [Leaflet](https://github.com/Leaflet/Leaflet) canvas layer plugin that enables you to draw elements on the edge of the
 canvas that normally are cutted.
@@ -8,13 +8,13 @@ Usually When you draw points that reside on the edge of a tile,
 
 
 ##Requirements
-----
+
 
 It requires Leaflet 0.7.x.
 
 
 ##Usage
-----
+
 
 	var padding = 30;
 
@@ -39,7 +39,7 @@ It requires Leaflet 0.7.x.
     paddedCanvas.addTo(map);
 
 ##Demo
-----
+
 
 An example can be found within the `examples` subdirectory of the repository: [Zero or Padded Layer example](//github.com/accurat/Leaflet.TileLayer.PaddedCanvas.git/example/index.html)
 
