@@ -1,0 +1,12 @@
+{
+	"name": "leaflet-padded-canvas",
+	"version": "0.1.0",
+	"description": "Canvas tiles with padding: used on drawing on the edges without cutting elements",
+	"author": "marco.vettorello@accurat.it",
+	"main": "src/L.TileLayer.PaddedCanvas.js",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/accurat/Leaflet.TileLayer.PaddedCanvas.git"
+	},
+	"keywords": ["gis", "map","leaflet","canvas"]
+}
