@@ -41,5 +41,5 @@ It requires Leaflet 0.7.x.
 ##Demo
 
 
-An example can be found within the `examples` subdirectory of the repository: [Zero or Padded Layer example](//github.com/accurat/Leaflet.TileLayer.PaddedCanvas.git/example/index.html)
+An example can be found within the `examples` subdirectory of the repository: [Zero or Padded Layer example](//accurat.github.io/Leaflet.TileLayer.PaddedCanvas)
 
